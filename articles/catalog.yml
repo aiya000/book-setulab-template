@@ -1,9 +1,7 @@
 PREDEF:
-  - opening.re
 
 CHAPS:
   - characters.re
-  - preface.re
+  - examples.re
 
 POSTDEF:
-  - post-script.re

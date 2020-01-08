@@ -2,13 +2,13 @@ review_version: 3.0
 bookname: book
 language: ja
 booktitle: せつラボ
-subtitle: 〜高い圏〜
+subtitle: テンプレート
 aut: ["aiya000"]
 date: 2019-01-14
 history: [["XXXX-XX-XX Y"]]
 rights: (C) 2019- aiya000 aiya000.develop@gmail.com
 debug: null
-urnid: urn:uid:http://aiya000.github.io/setulab-making-categories
+urnid: urn:uid:http://aiya000.github.io/setulab-template
 htmlext: html
 stylesheet: ["style.css"]
 epubversion: 3

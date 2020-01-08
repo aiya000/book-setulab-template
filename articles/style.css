@@ -438,7 +438,7 @@ table {
     @top-left {
         /* 本当は現在の深さ1の見出しを出したい */
         /* かつ、sectionの1ページ目だったら出したくない */
-        content: "Re:VIEW+CSS組版環境構築";
+        content: "せつラボ テンプレート";
         /* content: string(xxx); */
         vertical-align: bottom;
         border-bottom: solid 1px black;
@@ -465,7 +465,7 @@ table {
     @top-right {
         /* 本当は現在の深さ2の見出しを出したい */
         /* かつ、sectionの1ページ目だったら出したくない */
-        content: "Re:VIEW+CSS組版環境構築";
+        content: "せつラボ テンプレート";
         vertical-align: bottom;
         border-bottom: solid 1px black;
     }
